@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Informações',
           },
           {to: '/blog/intro', label: 'Quem Somos ?', position: 'left'},
           {
@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Informações',
             items: [
               {
                 label: 'Tutorial',
@@ -98,19 +98,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Git Hub',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Rodrigo Corpas',
+                href: 'https://github.com/a85280',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Pedro Amado',
+                href: 'https://github.com/PedroRicardoAmado',
               },
             ],
           },
@@ -118,12 +114,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Quem somos ?',
                 to: '/blog/intro',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
