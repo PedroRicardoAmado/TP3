@@ -8,6 +8,10 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
+const FeatureList: FeatureItem[] = [
+  
+];
+
 function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
@@ -19,5 +23,19 @@ function Feature({title, Svg, description}: FeatureItem) {
         <p>{description}</p>
       </div>
     </div>
+  );
+}
+
+export default function HomepageFeatures(): JSX.Element {
+  return (
+    <section className={styles.features}>
+      <div className="container">
+        <div className="row">
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+      </div>
+    </section>
   );
 }
