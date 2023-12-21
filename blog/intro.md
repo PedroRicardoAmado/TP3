@@ -2,46 +2,65 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Quem Somos
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Uma oficina automotiva é muito mais do que um simples local de reparo para veículos; é um espaço onde a paixão por automóveis encontra a expertise técnica. Imagine um lugar onde os motores roncam como uma sinfonia de potência e os profissionais são verdadeiros maestros na arte de manter e aprimorar o desempenho de seu veículo. 
 
-## Getting Started
+## Nesta oficina fazemos os diferentes tipos de trabalhos:
 
-Get started by **creating a new site**.
+### Manutenção Básica:
+Troca de óleo e filtro.
+Verificação e substituição de fluidos (freio, transmissão, direção hidráulica, refrigerante, etc.).
+Inspeção e substituição de filtros de ar e de combustível.
+Verificação e ajuste de pressão dos pneus.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Reparos Mecânicos:
+Diagnóstico e reparo de problemas no motor.
+Troca de correias e tensores.
+Substituição de velas de ignição e cabos.
+Reparos no sistema de escape.
 
-### What you'll need
+### Sistema de Freios:
+Substituição de pastilhas e discos de freio.
+Reparo ou substituição de cilindros mestres e cilindros de roda.
+Sangria e substituição do fluido de freio.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Suspensão e Direção:
+Alinhamento e balanceamento de rodas.
+Substituição de amortecedores e molas.
+Reparo ou substituição de componentes da direção.
 
-## Generate a new site
+### Sistema Elétrico:
+Diagnóstico e reparo de problemas elétricos.
+Substituição de baterias e alternadores.
+Instalação e reparo de sistemas elétricos adicionais (faróis, rádios, alarmes, etc.).
 
-Generate a new Docusaurus site using the **classic template**.
+### Transmissão e Embreagem:
+Troca de fluido da transmissão.
+Diagnóstico e reparo de problemas na transmissão.
+Substituição da embreagem.
 
-The classic template will automatically be added to your project after you run the command:
+### Ar Condicionado e Aquecimento:
+Recarga de refrigerante do ar condicionado.
+Diagnóstico e reparo de sistemas de aquecimento e ar condicionado.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Serviços de Pneus:
+Troca e reparo de pneus.
+Rodízio de pneus.
+Balanceamento e alinhamento.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Diagnóstico Eletrônico:
+Utilização de ferramentas de diagnóstico para identificar problemas eletrônicos.
+Leitura e interpretação de códigos de falha.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Personalização e Melhorias:
+Instalação de acessórios (rádios, sistemas de navegação, etc.).
+Upgrades de desempenho (freios esportivos, escapamentos esportivos, etc.).
 
-## Start your site
+### Serviços de Funilaria e Pintura:
+Reparos em amassados e arranhões.
+Pintura e repintura de partes danificadas.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Inspeções e Emissão de Documentos:
+Inspeções veiculares.
+Emissão de laudos para transferência e regularização.
